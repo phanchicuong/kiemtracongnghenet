@@ -1,0 +1,9 @@
+E:\2001207160_PhanChiCuong_KT\cuong\cuong\bin\Debug\cuong.exe.config
+E:\2001207160_PhanChiCuong_KT\cuong\cuong\obj\Debug\cuong.csprojResolveAssemblyReference.cache
+E:\2001207160_PhanChiCuong_KT\cuong\cuong\obj\Debug\cuong.Properties.Resources.resources
+E:\2001207160_PhanChiCuong_KT\cuong\cuong\obj\Debug\cuong.ThongTinPhongHoiNghics.resources
+E:\2001207160_PhanChiCuong_KT\cuong\cuong\obj\Debug\cuong.csproj.GenerateResource.Cache
+E:\2001207160_PhanChiCuong_KT\cuong\cuong\bin\Debug\cuong.exe
+E:\2001207160_PhanChiCuong_KT\cuong\cuong\bin\Debug\cuong.pdb
+E:\2001207160_PhanChiCuong_KT\cuong\cuong\obj\Debug\cuong.exe
+E:\2001207160_PhanChiCuong_KT\cuong\cuong\obj\Debug\cuong.pdb
